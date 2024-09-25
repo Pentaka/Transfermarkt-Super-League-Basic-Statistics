@@ -80,7 +80,8 @@ Bu Grafikte 23-24 sezonundan beri Fenerbahçe Spor Kulübünün oyuncularından 
 Bu Grafikte 23-24 sezonundan beri Fenerbahçe Spor Kulübünün oyuncularından dakika başına en çok sarı ve kırmızı kart yiyen 10 oyuncu yer almaktadır.
 <br>
 <br>
-Bu veriler istenilen lig ve sezona göre ayarlanarak başka veri ve grafiklere de ulaşmak mümkündür. Bu çalışma basit düzeyde olup genel bir bilgilendirme amacıyla yapılmıştır.
-Aşağıdaki kütüphaneler projenin çalışması için gereklidir. Lütfen eksik olanları yüklemek için ilgili komutları çalıştırın.
-# Gerekli Python kütüphanelerini yükleme komutları:
+Bu veriler istenilen lig ve sezona göre ayarlanarak başka veri ve grafiklere de ulaşmak mümkündür. Bu çalışma basit düzeyde olup genel bir bilgilendirme amacıyla yapılmıştır.<br>
+Aşağıdaki kütüphaneler projenin çalışması için gereklidir. Lütfen eksik olanları yüklemek için ilgili komutları çalıştırın.<br>
+## Gerekli Python kütüphanelerini yükleme komutları:
+<br>
 pip install numpy pandas matplotlib seaborn pillow requests
